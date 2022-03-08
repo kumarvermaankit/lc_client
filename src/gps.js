@@ -18,7 +18,7 @@ function App() {
   useEffect(async () => {
 
     //Fetching data from backend
-    const excelData = await axios.get("/api")
+    const excelData = await axios.get("https://locationtracker9.herokuapp.com/api")
 
 
 
