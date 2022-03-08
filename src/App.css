@@ -2,6 +2,7 @@
 body{
   background-color: #86C6F4;
   overflow-y: hidden;
+  overflow-x: hidden;
 }
 
 .App h1{
